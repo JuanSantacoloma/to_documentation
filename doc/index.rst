@@ -4,14 +4,15 @@
    table of contents
 
 
-word-count
-==========
+To-Documentation
+================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   purpose.rst
-   dependencies.rst
-   usage.rst
-   credit.rst
-   exercises.rst
+   1_history.rst
+   2_context_restriction.rst
+   3_software.rst
+   4_hardware.rst
+   5_future_work.rst
+   6_troubleshooting.rst

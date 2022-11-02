@@ -5,4 +5,4 @@ venv/
 results/*.png
 results/*.txt
 processed_data/*.dat
-testenv
+to_documentation_env
